@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/skull-coordinates/static/css/main.c6be1cca.css",
-    "main.js": "/skull-coordinates/static/js/main.da61007d.js",
+    "main.js": "/skull-coordinates/static/js/main.d2aef99e.js",
     "static/media/skull-xray.jpg": "/skull-coordinates/static/media/skull-xray.995456b4187433fb374b.jpg",
     "index.html": "/skull-coordinates/index.html",
     "main.c6be1cca.css.map": "/skull-coordinates/static/css/main.c6be1cca.css.map",
-    "main.da61007d.js.map": "/skull-coordinates/static/js/main.da61007d.js.map"
+    "main.d2aef99e.js.map": "/skull-coordinates/static/js/main.d2aef99e.js.map"
   },
   "entrypoints": [
     "static/css/main.c6be1cca.css",
-    "static/js/main.da61007d.js"
+    "static/js/main.d2aef99e.js"
   ]
 }
