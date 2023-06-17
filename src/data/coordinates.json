@@ -1,0 +1,248 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Nasion",
+      "points": [
+        [
+          1824.731707317073,
+          478.80487804878044
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Sella",
+      "points": [
+        [
+          1171.0731707317073,
+          734.9024390243902
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Basion",
+      "points": [
+        [
+          1029.6097560975609,
+          1115.390243902439
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Articulare",
+      "points": [
+        [
+          1095.4634146341461,
+          1025.1463414634145
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Gonion",
+      "points": [
+        [
+          1249.121951219512,
+          1376.3658536585365
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Menton",
+      "points": [
+        [
+          1883.2682926829266,
+          1605.6341463414633
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Pogonion",
+      "points": [
+        [
+          1971.0731707317073,
+          1512.951219512195
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Gnathion",
+      "points": [
+        [
+          1975.9512195121947,
+          1612.951219512195
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Point B",
+      "points": [
+        [
+          1939.3658536585363,
+          1422.7073170731705
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Anterior nasal spine",
+      "points": [
+        [
+          1975.9512195121947,
+          1012.951219512195
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Posterior nasal spine",
+      "points": [
+        [
+          1522.292682926829,
+          1078.8048780487804
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Point A",
+      "points": [
+        [
+          1939.3658536585363,
+          1078.8048780487804
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Upper incisor incisal edge",
+      "points": [
+        [
+          2019.853658536585,
+          1259.2926829268292
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Upper incisor root tip",
+      "points": [
+        [
+          1897.9024390243899,
+          1076.3658536585365
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Lower incisor incisal edge",
+      "points": [
+        [
+          1983.2682926829266,
+          1249.5365853658536
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Lower incisor root tip",
+      "points": [
+        [
+          1890.5853658536585,
+          1471.4878048780486
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Upper molar mesial contact",
+      "points": [
+        [
+          1763.7560975609754,
+          1191.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Lower molar mesial contact",
+      "points": [
+        [
+          1727.170731707317,
+          1315.390243902439
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Orbitale",
+      "points": [
+        [
+          1775.9512195121952,
+          805.6341463414634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "Porion",
+      "points": [
+        [
+          968.6341463414633,
+          978.8048780487804
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imageHeight": 2232,
+  "imageWidth": 2688
+}
