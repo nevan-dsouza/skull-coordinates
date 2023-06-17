@@ -8,8 +8,8 @@ import './App.css'
 
 const originalImageWidth = 2688; 
 const originalImageHeight = 2232;
-const displayedImageWidth = 500;
-const displayedImageHeight = 500;
+const displayedImageWidth = 600;
+const displayedImageHeight = 600;
 
 const scaleX = displayedImageWidth / originalImageWidth;
 const scaleY = displayedImageHeight / originalImageHeight;
