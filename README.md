@@ -64,3 +64,4 @@ Once you clone this repo and are in the skull-coordinates directory, do the foll
 * **Landing page:** explain about the application
 * **dark mode feature:** accessibility reasons
 * **Undo feature for the teacher section:** User-friendly
+* **Mobile Responsive:** students and teachers can conveniently do it on their phones
